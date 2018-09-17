@@ -1,0 +1,120 @@
+h1,h3{
+	margin: 0;
+}
+#Menu {
+	margin-top: 30px;
+}
+#Menu ul{
+	margin:0px;
+	padding:50px;
+	margin-left: 300px;
+}
+#Menu ul li{
+	list-style:none;
+	margin-right:0px;
+}
+#Menu ul li a{
+	text-decoration:none;
+	font-size:12px;
+	padding:3px 18px;
+	float:left;
+	padding:8px;
+	margin-left: 50px;
+}
+#Menu ul li a:hover{
+	display:block;
+	text-decoration:none;
+	font-size:12px;
+	padding:7px 8px 8px 8px;
+}
+.logo{
+	float:left;
+	margin-top: 30px;
+}
+.content {
+	color: darkgrey;
+	width: 88vw;
+}
+.heading {
+	color:#381C1C;
+	font-size: 0.9cm;
+	margin: 0vw;
+
+}
+.title{
+	text-align:left;
+	font-size: 16px;
+	margin: auto;
+	width: 90vw;
+}
+.CT{
+	text-align:left;
+	font-size: 14px;
+	margin: auto;
+}
+.Footer{
+	background-color: burlywood;
+	font-size: 14px;
+	margin:0;
+	width: 100vw;
+	color: gainsboro;
+	margin-inside: 5px;
+	vertical-align:bottom;
+
+
+}
+.bold {
+	font-size: 16px;
+	margin: auto;
+	color:#381C1C;
+	font-weight: bold;
+	text-align:left;
+
+}
+.minch {
+	font-size: 14px;
+	margin: auto;
+	text-align: left;
+}
+.ivm {
+	float:left;
+	color: darkgrey;
+	width: 43vw;
+}
+.video{
+	float: left;
+	margin-left: 5px;
+
+}
+.reel {
+	height:70vh;
+	overflow-y: scroll;
+	}
+.picture{
+float: right;
+height: auto;
+margin-right: 30px;
+}
+.ico{
+	float:left;
+	width: 60%;
+	color: darkgrey;
+}
+.left{
+	height: 70vh;
+	width: 40vw;
+	float: left;
+}
+
+.right{
+	  height: 70vh;
+	  width: 40vw;
+	  float: left;
+}
+.box{
+	 background-color: rgba(0,0,0,.3);
+	 height: 50vh;
+}
+.index{
+	width: 40vw;
+}
